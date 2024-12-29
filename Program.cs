@@ -4,7 +4,7 @@ using System.Reflection.Metadata;
 class Program
 {
     const int LETTERS_COUNT = 26;
-    const char UNKNOWN_SYMBOL = '*';
+    const char UNKNOWN_SYMBOL = '_';
 
     static void Main()
     {
